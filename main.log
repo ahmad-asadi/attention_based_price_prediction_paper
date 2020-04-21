@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.11.29)  18 APR 2020 12:18
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.11.29)  22 APR 2020 01:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -117,36 +117,68 @@ LaTeX Font Warning: Font shape `TU/phv/bx/sc' undefined
 LaTeX Font Warning: Font shape `TU/ppl/m/sc' undefined
 (Font)              using `TU/ppl/m/n' instead on input line 718.
 
+
+LaTeX Warning: Citation `ahmadi2020comparative' on page 1 undefined on input li
+ne 723.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
+(Font)              using `TU/phv/m/n' instead on input line 748.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+[]\TU/phv/bx/n/12 The existing forecasting meth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+\TU/phv/bx/n/12 ods make useof both linear
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+\TU/phv/bx/n/12 (AR,MA,ARIMA) and non-linear
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+\TU/phv/bx/n/12 algorithms(ARCH,GARCH,Neural
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 750--751
+\TU/phv/bx/n/12 we are identifying the latentdynamics
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 750--751
+\TU/phv/bx/n/12 applying a sliding window approach
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 782.
-[1
+(Font)              <8> on input line 753.
+ [1
 
 
-] (./main.bbl
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \end{thebibliography}
-                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) [2] (./main.aux)
+]
+[2] [3] [4] [5] [6] [7] (./main.bbl [8]) [9] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 936 strings out of 492909
- 16510 string characters out of 6135046
- 85984 words of memory out of 5000000
- 5040 multiletter control sequences out of 15000+600000
+ 963 strings out of 492909
+ 16964 string characters out of 6135046
+ 94075 words of memory out of 5000000
+ 5067 multiletter control sequences out of 15000+600000
  7736 words of font info for 38 fonts, out of 8000000 for 9000
  1351 hyphenation exceptions out of 8191
- 28i,8n,28p,225b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,8n,28p,1880b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (2 pages).
+Output written on main.pdf (9 pages).
